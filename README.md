@@ -30,7 +30,7 @@
             <BR>
                 <label for="NO"><INPUT type="radio" value="NO" name="YES" id="NO">NO</label>
                     <BR>
-                        </label>
+                        
 <button>submit</button>
 </span>
 <BR>
